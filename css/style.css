@@ -91,6 +91,6 @@ label {
 }
 
 input:invalid {
-  content: "✖";
+  content: "x";
   padding-left: 5px;
 }
