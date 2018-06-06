@@ -89,8 +89,3 @@ label {
   display: block;
   font-size: 0.8em;
 }
-
-input:invalid {
-  content: "x";
-  padding-left: 5px;
-}
